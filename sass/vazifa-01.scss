@@ -327,4 +327,11 @@ footer {
     bottom: -80px;
     z-index: 1;
   }
+
+  .nft-imges {
+    width: 300px;
+    object-fit: cover;
+    max-height: 200px;
+    border-radius: 10px;
+  }
 }
